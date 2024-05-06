@@ -1,1 +1,1 @@
-A simple to do list app for symbian^3 comming coon!
+A simple to do list app for symbian^3 comming soon!
